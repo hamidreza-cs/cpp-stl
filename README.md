@@ -1,6 +1,6 @@
 # C++ STL
 
-👋 **About This Repository**
+## 👋 **About This Repository**
 
 A collection of examples and exercises for learning the C++ Standard 
 Template Library (STL). Covers containers, algorithms, iterators, 
@@ -20,7 +20,7 @@ and practical usage.
 - **Practice:** real-world examples
 
 ---
-
+<!--
 ## 📂 Repository Structure
 
 ```bash
@@ -36,3 +36,17 @@ cpp-stl/
 ├── 09-iterators/           # Iterator concepts
 ├── 10-practice-projects/   # Combined practice
 └── 11-advanced/            # Advanced topics (optional)
+```
+-->
+## 🚀 How to Run
+- Open any .cpp file in VS Code
+
+- Press Ctrl + Alt + N to run
+
+- Or compile with g++:
+
+---
+g++ filename.cpp -o output
+./output
+---
+Work in Progress — More examples will be added over time.
