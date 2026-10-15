@@ -15,7 +15,7 @@ int main(){
         for(int j = i + 1; j < v.size(); j++){
             if(v[i] == v[j]){
                 delete_element(v, j);
-                j--;    // ← مهم
+                j--;    
                 break;
             }
         }
