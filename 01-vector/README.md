@@ -27,7 +27,6 @@ without knowing in advance how many you'll need.
 | `basic-operations.cpp` | Creation, insertion, deletion, access |
 | `size-capacity.cpp` | size, capacity, resize, reserve |
 | `iterators.cpp` | begin, end, range-based for |
-| `algorithms-with-vector.cpp` | sort, find, reverse |
 | `2d-vector.cpp` | Matrix with vector |
 
 ### Practice
